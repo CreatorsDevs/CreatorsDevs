@@ -1,4 +1,4 @@
-### Hi, I'm Devansh Pandey,
+### Hi, I'm Devansh Pandey
 A Game Developer focused on advancing my skills and contributing to the gaming industry.
 
 <!--
